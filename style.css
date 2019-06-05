@@ -1,0 +1,47 @@
+* {
+    font-family: Verdana, Arial, sans-serif;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: #121212;
+    width: 800px;
+    margin: 0 auto;
+}
+
+footer ul, body ul{
+    list-style-type: none;
+}
+
+footer li{
+    display: inline;
+}
+
+#footer_p {
+    margin-left: 155px;
+    margin-top: -33px;
+    color: white;
+}
+
+#hellscythe_character {
+    margin-left: 430px;
+    margin-top: -340px;
+    margin-bottom: 20px;
+}
+
+#hellscythe_img {
+    margin: auto;
+}
+
+#germancreepypasta_img {
+    margin: auto;
+    height: 100px;
+    width: 500px;
+    margin-top: -60px;
+}
+
+#twitter_img, #youtube_img, #facebook_img {
+    width: 40px;
+    height: 40px;
+}
